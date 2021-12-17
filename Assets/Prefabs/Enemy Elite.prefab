@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1204434817880375628
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678461, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy Elite
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678463, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: health
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678463, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: coinValue
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130345678463, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: BulletEnemyPrefabs
+      value: 
+      objectReference: {fileID: 2787730107881049552, guid: 1c66096cd56db9448ac222eb608c754d,
+        type: 3}
+    - target: {fileID: 4115690130345678463, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: enemyelittransform
+      value: 
+      objectReference: {fileID: 3002455419043616560}
+    - target: {fileID: 4115690130653483771, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy Elite
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130653483773, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.9056604
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130653483773, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.5938057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115690130653483773, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.5938057
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 94c45f4c7a820074a899f2c65a3ec1a3, type: 3}
+--- !u!4 &3002455419043616560 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4115690130345678460, guid: 94c45f4c7a820074a899f2c65a3ec1a3,
+    type: 3}
+  m_PrefabInstance: {fileID: 1204434817880375628}
+  m_PrefabAsset: {fileID: 0}
